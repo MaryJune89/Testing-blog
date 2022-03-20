@@ -1,0 +1,85 @@
+
+
+ul{
+    list-style-type: none;
+    
+    
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    font-family: Dancing Script, Shadow Into Light;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(5, 7, 29);
+}
+
+body {
+    background-image: url("images/blogPic.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(5, 7, 29);
+    font-family: Shadow Into Light, Roboto;
+    font-weight: 400;
+
+
+}
+
+ img{
+    float: none;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+p{ border-width: 5px;
+    border-color: black;
+    border-style: none;
+    text-align: center;
+}
+
+
+
+div{
+    height:100px;
+    width:100px;
+    display:inline;
+    margin: 20px;
+    
+
+}
+
+
+section .cat{
+    border:1px solid black;
+    width:70%;
+    height:70%;
+    margin: 20px;
+    padding: 50px;
+    display:inline-block;
+
+}
+
+
+ul.icons {
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+}
+
+    ul.icons li {
+        display: inline-block;
+        padding: 0 1.5em 0 0;
+    }
+
+        ul.icons li:last-child {
+            padding-right: 0;
+        }
+
+        ul.icons li .icon:before {
+            font-size: 1.5em;
+        }

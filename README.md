@@ -1,3 +1,3 @@
 # Testing-blog
 
-My very first basic site using HTML and CSS. 
+My story blurb site using HTML and CSS. 
